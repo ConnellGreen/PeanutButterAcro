@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://connellgreen.com/sitemap.xml
+Sitemap: http://www.peanutbutteracro.com/sitemap.xml
